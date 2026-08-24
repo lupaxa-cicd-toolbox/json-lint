@@ -10,8 +10,6 @@
 
 A tool to validate your JSON files using [jq](https://stedolan.github.io/jq/).
 
-> Also see: [validate-json](https://github.com/DevelopersToolbox/validate-json) for our bash plugin to do the same thing.
-
 This tool has been tested against the following:
 
 1. GitHub Actions
